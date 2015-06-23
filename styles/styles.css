@@ -1,12 +1,12 @@
-
-.red-link {
-	color: red;
+body {
+	margin: 0px;
 }
 
-.blue-link {
-	color: blue;
+header {
+	background: #eee;
+	height: 100px;
 }
 
-a {
-	color: #6F3F3F;
+img {
+	width: 134px;
 }
