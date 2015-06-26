@@ -5,8 +5,33 @@ body {
 header {
 	background: #eee;
 	height: 100px;
+	border: 1px solid red;
 }
 
-img {
+header img {
 	width: 134px;
+}
+
+header ul {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.green-text {
+	color: green;
+}
+
+header ul li {
+	display: inline-block;
+}
+
+.main-content {
+	border: 1px solid blue;
+	height: 400px;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	border: 1px solid black;
 }
