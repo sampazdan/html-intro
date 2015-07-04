@@ -5,11 +5,11 @@ body {
 header {
 	background: #eee;
 	height: 100px;
-	border: 1px solid red;
 }
 
 header img {
 	width: 134px;
+	margin-top: 20px;
 }
 
 header ul {
@@ -26,12 +26,10 @@ header ul li {
 }
 
 .main-content {
-	border: 1px solid blue;
 	height: 400px;
 }
 
 .container {
 	width: 960px;
 	margin: 0 auto;
-	border: 1px solid black;
 }
